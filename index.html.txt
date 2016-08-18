@@ -2,6 +2,6 @@
 <html>
 <body>
 <h1>Gilmour Group Lab Website</h1>
-<h2>CURRENTLY UNDER CONSTRUCTION<h2>
+<p>CURRENTLY UNDER CONSTRUCTION<h2>
 </body>
 </html>
